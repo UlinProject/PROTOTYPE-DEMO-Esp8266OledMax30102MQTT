@@ -37,4 +37,4 @@ The server part is allocated separately and is not included in this project.
 |-| -------- |
 |1| MQTT Server |
 |2| Domoticz Server |
-|..| ...... |
+|..| ... NodeJS |
