@@ -1,4 +1,4 @@
-# Esp8266O OledMax30102MQTT
+# Esp8266 OledMax30102MQTT
 
 ### Notice: Old prototype of the final product, development 2022. Provided as is.
 
