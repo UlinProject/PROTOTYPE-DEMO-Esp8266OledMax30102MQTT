@@ -8,6 +8,11 @@ The main task was to develop a miniature battery device capable of measuring hum
 
 Small device based on `esp8266` code developed using `Arduino` environment and `C++` programming language.
 
+<div>
+<img src="photo/demo design.jpg" width="330" height="200" alt="design1">
+<img src="photo/demo oled.jpg" width="330" height="200" alt="design bmp/sp graph">
+</div>
+
 | | Data  | URL |
 |-| -------- | -- |
 |1| design1 (photo) | <a href="photo/demo design.jpg">Next</a> |
