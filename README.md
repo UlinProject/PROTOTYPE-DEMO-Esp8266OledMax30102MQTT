@@ -38,3 +38,11 @@ The server part is allocated separately and is not included in this project.
 |1| MQTT Server |
 |2| Domoticz Server |
 |..| ... NodeJS |
+
+# License
+
+Copyright 2022 #UlinProject Denis Kotlyarov (Денис Котляров)
+
+Licensed under the Apache License, Version 2.0
+
+<b>This project is provided as is without warranty of any kind.</b>
